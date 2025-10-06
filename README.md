@@ -23,6 +23,14 @@ Reviewing PII complience
 
 -  **[gaussian-elimination](https://github.com/tavrelkate/gaussian-elimination)**  – Repo contains an implementation of "Gaussian elimination" and transform matrix to echelon form for Ruby.
 
+### Games
+
+I play Code Games on [CodinGame](https://www.codingame.com). Here's my profile: [https://www.codingame.com/profile/e9c9e03bf8ec9b4035d7b80d9531577a8335714](https://www.codingame.com/profile/e9c9e03bf8ec9b4035d7b80d9531577a8335714).  
+I'm a big fan of [Clash of Code](https://www.codingame.com/events/171c9e6f1c96d1a4a6cc6be1c8deb674657)!
+
+
+
+
 ---
 
 Always open to discussions, and contributions —  feel free to contact and collaborate.
