@@ -19,7 +19,7 @@ Reviewing PII complience
 
 ## ⏳ Time ago
 
--  **[hash-merkle-tree](https://github.com/tavrelkate/hash_merkle_tree)**  – Merkle Hash Tree implementation for hashing and verification.
+-  **[hash-merkle-tree](https://github.com/tavrelkate/hash-merkle-tree)**  – Merkle Hash Tree implementation for hashing and verification.
 
 -  **[gaussian-elimination](https://github.com/tavrelkate/gaussian-elimination)**  – Repo contains an implementation of "Gaussian elimination" and transform matrix to echelon form for Ruby.
 
