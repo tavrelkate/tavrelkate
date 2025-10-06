@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hi 👋
 
 I’m **Kate** — **Tech Lead** working with **Ruby** and **Python**. My main focus is on **Simplicity** and **Scalability for Maintenance**.
 
