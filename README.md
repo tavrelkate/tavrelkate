@@ -13,7 +13,7 @@ Diving into JsonLogic in
 
 Reviewing PII complience
 
-- **[sentiniel](https://github.com/tavrelkate/sentiniel)** – Creaftin core evaluation layer.
+- **[sentiniel](https://github.com/tavrelkate/sentiniel)** – Creafting core evaluation layer.
 
 ---
 
