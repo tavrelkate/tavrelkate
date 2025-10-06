@@ -33,4 +33,4 @@ I'm a big fan of [Clash of Code](https://www.codingame.com/events/171c9e6f1c96d1
 
 ---
 
-Always open to discussions, and contributions —  feel free to contact and collaborate.
+Always open to discussions and contributions —  feel free to contact and collaborate.
