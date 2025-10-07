@@ -1,3 +1,8 @@
+
+
+<img width="1033" height="351" alt="Background-short" src="https://github.com/user-attachments/assets/13322cae-0f9d-44b4-b3ad-32cc8e520f30" />
+
+
 # Hi 👋
 
 I’m **Kate** — **Tech Lead** working with **Ruby** and **Python**. My main focus is on **Simplicity** and **Scalability for Maintenance**.
