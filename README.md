@@ -5,7 +5,7 @@
 
 # Hi 👋
 
-I’m **Kate** — **Tech Lead** working with **Ruby** and **Python**. My main focus is on **Simplicity** and **Scalability for Maintenance**.
+I’m Kate — **Tech Lead** working with **Ruby** and **Python**. as main tech stack. My main focus is on **simplicity**, **scalability** and **elegant technical solutions**.
 
 ---
 
